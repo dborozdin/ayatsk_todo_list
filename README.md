@@ -1,5 +1,8 @@
 # vue-demo
 
+Проект-демонстратор связки front-end на vueJs и платформы ayatsk 
+Подробнее в wiki https://github.com/dborozdin/ayatsk_todo_list/wiki
+
 ## Project setup
 ```
 npm install
